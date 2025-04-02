@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1743614635752,
+  "timestamp": 1743620328049,
   "index": "/solepwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/solepwa/favicon.ico",
         "/solepwa/index.html",
-        "/solepwa/main-RLQLLH36.js",
+        "/solepwa/main-2ML3D3MT.js",
         "/solepwa/manifest.webmanifest",
         "/solepwa/polyfills-FFHMD2TL.js",
         "/solepwa/scripts-XYJPF5SY.js",
@@ -56,8 +56,8 @@
     "/solepwa/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/solepwa/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/solepwa/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/solepwa/index.html": "f3f2214894e3d601783828c4dfa06dd8ec232a16",
-    "/solepwa/main-RLQLLH36.js": "b5998e3b21c452ad9f0ad3b1467ce1a957593981",
+    "/solepwa/index.html": "b2ffca22192f401d767e9942c06dcc6134649f93",
+    "/solepwa/main-2ML3D3MT.js": "718567d0b50b96bb6a57685651ee04c324efd259",
     "/solepwa/manifest.webmanifest": "83f3ad1fe9f74caed3c1cc6e9a0b936f521638e8",
     "/solepwa/media/primeicons-4GST5W3O.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
     "/solepwa/media/primeicons-DHQU4SEP.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
